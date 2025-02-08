@@ -12,7 +12,7 @@ Features:
 - Offers one-click active/inactive conversion and date formatting for Matlab.
 - Enables comparison of simulated and observed data with model results through various charts.
 - Allows batch conversion of chart outputs to PDF.
-- 
+  
 The HYPE VBA 1.3 has been in development for approximately one year, and it has been updated regularly to enhance speed, stability, and functionality.
 
 Contact:
